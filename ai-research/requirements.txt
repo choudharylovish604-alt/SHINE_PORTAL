@@ -1,0 +1,24 @@
+# Core ML stack
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Explainable AI (XAI)
+shap
+lime
+matplotlib
+seaborn
+
+# API & Production
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# Development & Experimentation
+jupyter
+ipykernel
+tqdm
+pytest

@@ -39,4 +39,4 @@ docker-compose up --build
 - **Deployment**: Docker + Nginx
 
 ---
-Created by [HarshSATHE001](https://github.com/HarshSATHE001)
+Created by [LOVISH CHOUDHARY-https://github.com/choudharylovish604-alt]
